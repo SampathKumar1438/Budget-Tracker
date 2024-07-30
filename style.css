@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.main{
+    padding: 20px;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.n{
+    background-color: rgb(162, 162, 255);
+    padding: 80px;
+    width: 100%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .m{
+    background-color: blue;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: blanchedalmond;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
